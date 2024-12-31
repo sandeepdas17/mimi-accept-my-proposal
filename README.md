@@ -7,7 +7,7 @@ requires a fairly new v of **node** and **git**!
 
 fork and **pull**.
 ```sh
--> git add origin 
+-> git add origin https://github.com/sandeepdas17/mimi-accept-my-proposal.git
 -> git pull origin
 ```
 
